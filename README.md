@@ -5,3 +5,9 @@
  ## **Repositório criado para documentação de estudos em COBIT**
   
 </div>
+<br><br>
+
+
+## 📚  Livros: 
+ 
++ **COBIT 5 para segurança das informações - Isaca**
