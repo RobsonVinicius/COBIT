@@ -14,6 +14,7 @@
 
 <br>
 
-## 🌐 Sites para estudo
+## 🌐 Sites
 
-+ COBIT CASE STUDIES | ISACA (https://www.isaca.org/resources/cobit/cobit-case-studies)
++ [COBIT CASE STUDIES | ISACA](https://www.isaca.org/resources/cobit/cobit-case-studies)
++ [Understanding What is COBIT and COBIT Framework | Simpli Learn](https://www.simplilearn.com/what-is-cobit-significance-and-framework-rar309-article)
