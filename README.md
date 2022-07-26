@@ -24,6 +24,7 @@
 ## 📰 Posts / Artigos
 
 + [O que é COBIT? - Cronapp Blog](https://blog.cronapp.io/o-que-e-cobit/)
++ [O que é Cobit e quais são os principais processos - Nobug](https://nobug.com.br/rascunho-automaticoo-que-e-cobit/)
 + [O que é COBIT, os benefícios e a relação com a governança de TI - Pós Puc PR Digital](https://posdigital.pucpr.br/blog/cobit#:~:text=Sigla%20para%20Control%20Objectives%20for,gest%C3%A3o%20de%20informa%C3%A7%C3%A3o%20e%20governan%C3%A7a.)
 + [COBIT: o que é e quais seus benefícios para a área de TI - Movidesk Blog](https://conteudo.movidesk.com/cobit-o-que-e/)
 + [O que é COBIT? Para que serve? Quais os benefícios? - Blog da Zendesk](https://www.zendesk.com.br/blog/cobit-o-que-e/)
