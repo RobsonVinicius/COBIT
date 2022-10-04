@@ -10,7 +10,7 @@
 
 ## 📚  Livros: 
  
-+ **COBIT 5 para segurança das informações - Isaca**
++ [**COBIT 5 para segurança das informações - Isaca**](https://amzn.to/3fFD3m6)
 
 <br>
 
